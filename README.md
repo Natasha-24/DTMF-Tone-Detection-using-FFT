@@ -34,4 +34,10 @@ This project demonstrates practical applications of:
 - Fourier Transform
 - Frequency domain analysis
 - Digital signal processing
-- Telecommunications signaling systems
+- Telecommunications signaling systems.
+
+## Time Domain Signal
+![Time Waveform](time_waveform.png)
+
+## Frequency Spectrum
+![FFT Spectrum](spectrum.png)
